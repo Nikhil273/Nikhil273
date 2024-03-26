@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **HTML ,CSS ,FIGMA**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **Nikhilmaurya.It@gmail.com**
 
